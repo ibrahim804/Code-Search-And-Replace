@@ -1,0 +1,7 @@
+total line numbers=23
+total words numbers=34
+total char numbers=226
+total keywords numbers=6
+total loop number=0
+
+
